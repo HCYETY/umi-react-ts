@@ -1,2 +1,15 @@
-# umi-react-ts
-前端代码模板，用于快速初始化项目
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
